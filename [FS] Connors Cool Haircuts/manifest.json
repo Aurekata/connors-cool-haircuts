@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Connor's Cool Haircuts",
+  "Author": "Aurekata",
+  "Version": "1.0.0",
+  "Description": "Connor's pack for whatever haircuts he wants to add to the game. These are mostly short/medium in length.",
+  "UniqueID": "Aurekata.ConnorsCoolHaircuts",
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "4.10.0"
+  }
+}
